@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+
+}
+.btn-outline-secondary {
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 5px;
+
+}
+ul li.checked {
+    background:  #888;
+    color: #fff;
+    text-decoration: line-through;
+
+}
+.close {
+    cursor: pointer;
+    
+}
+.card-header {
+    font-size: 26px;
+}
+
+
+#btnDelete {
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    
+}
