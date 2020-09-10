@@ -4,7 +4,7 @@ This is ToDoList project readme.
 ##The languages used
   -HTML
   -CSS 
-  -JS
+  -Vanilla JS
 
 ##The Functionalities
   -Add item.
